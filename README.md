@@ -1,11 +1,15 @@
 # Project Title : Doctor Appointment Management System (DAMS)
 
 
+
 # 📖 Description :
 The Doctor Appointment Management System (DAMS) is a full-stack web application developed using the MERN stack (MongoDB, Express.js, React, Node.js) to simplify the process of booking, managing, and tracking doctor appointments. It offers patients a user- friendly interface to book, view, and cancel appointments from anywhere.The system also includes real-time email notifications to keep users updated about their appointment status.  
 
 
-🛠️ Tech Stack :   
+
+
+
+#  🛠️ Tech Stack :   
 - 🎨  Frontend: HTML5, CSS3, JavaScript, React  
 - 🖥️  Backend: Node.js, Express.js  
 - 🗄️  Database: MongoDB, Mongoose   
@@ -13,7 +17,10 @@ The Doctor Appointment Management System (DAMS) is a full-stack web application 
 - 🧪  API Testing: Postman
 
 
-  🚀 Features :
+
+
+
+  #  🚀 Features :
   - The Doctor Appointment Management System developed using the MERN stack and followed the MVC (Model-View-Controller) architecture.
   - Provides secure user authentication with bcrypt and JSON Web Token (JWT), along with role-based authorization.
   - Uses MongoDB with Mongoose to store and manage patient, doctor, and appointment records.
@@ -25,4 +32,17 @@ The Doctor Appointment Management System (DAMS) is a full-stack web application 
   - The admin panel provides an overview of the system, including the total number of appointments, their status, and the number of registered doctors for admins.
  
 
-    
+
+
+
+    #  🌐 Website Preview :
+
+     PatientRegisterPage : ![PatientRegisterPage](./screenshots/NewPatientRegisterPage.png)
+     PatientLoginPage: ![PatientLoginPage](./screenshots/PatientLoginPage.png)
+     HomePage: ![HomePage](./screenshots/HomePage.png)
+     AppointmentPage: ![AppointmentPage](./screenshots/GetAppointmentPage.png)
+     AdminLoginPage: ![AdminLoginPage](./screenshots/AdminLoginPage.png)
+     AdminDashboard: ![AdminDashboard](./screenshots/AdminDashboard.png)
+     AddNewDoctorPage: ![AddNewDoctorPage](./screenshots/AddNewDoctor.png)
+     DoctorsDetailsPage: ![DoctorsPage](./screenshots/DoctorsPage.png)
+     SystemDatabase: ![SystemDatabase](./screenshots/SystemDatabase.png)
